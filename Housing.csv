@@ -1,4 +1,4 @@
-Year,Population,People Living in Poverty,Median Household Income,Unemployment Count,Average Cost of Rent and Utilities Combined,Average Value of an Owner-Occupied Home,Average Monthly Housing Expense for a Homeowner with a Mortgage,Name,state,Unemployment Rate,Poverty Rate
+Year,Population,People_Living_in_Poverty,Median_Household_Income,Unemployment_Count,Average_Cost_of_Rent_and_Utilities_Combined,Average_Value_of_an_Owner_Occupied_Home,Average_Monthly_Housing_Expense_for_a_Homeowner_with_a_Mortgage,Name,state,Unemployment_Rate,Poverty_Rate
 2012,11533561.0,1723485.0,48246.0,569218.0,710.0,133700.0,1303.0,Ohio,39,4.9353187623492865,14.943216583325826
 2013,11549590.0,1773853.0,48308.0,582953.0,718.0,130800.0,1288.0,Ohio,39,5.047391292677922,15.358579828374861
 2014,11560380.0,1790564.0,48849.0,536573.0,729.0,129600.0,1274.0,Ohio,39,4.641482373416791,15.488798811111746

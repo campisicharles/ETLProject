@@ -1,0 +1,22 @@
+CREATE TABLE Edu (
+	Year VARCHAR(20),
+	Population VARCHAR(20), 
+    People_over_25_with_No_Schooling VARCHAR(20), 
+    High_School_Diploma VARCHAR(20), 
+    GED VARCHAR(20), 
+    Associates_Degree VARCHAR(20), 
+    Bachelors_Degree VARCHAR(20), 
+    Masters_Degree VARCHAR(20), 
+    Professional_Degree VARCHAR(20), 
+    Doctoral_Degree VARCHAR(20), 
+    Name VARCHAR(20),
+    state VARCHAR(20), 
+    No_Schooling_Rate VARCHAR(20), 
+    High_School_Education_Rate VARCHAR(20), 
+    GED_Rate VARCHAR(20), 
+    Associates_Degree_Rate VARCHAR(20), 
+    Bachelors_Degree_Rate VARCHAR(20), 
+    Masters_Degree_Rate VARCHAR(20), 
+    Professional_Degree_Rate VARCHAR(20), 
+    Doctoral_Degree_Rate VARCHAR(20)
+);
