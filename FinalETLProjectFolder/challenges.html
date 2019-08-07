@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="UTF-8">
+  <title>Group 2 (Joan, Enzo, & Charles) ETL Project</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html">Group #2: ETL Project </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Data
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="fbi.html">FBI Crime Data</a>
+            <a class="dropdown-item" href="census.html">Census Data</a>
+            <a class="dropdown-item" href="startrek.html">Data from Star Trek</a>
+          </div>
+        </li>
+        <li class="nav-item">
+                <a class="nav-link" href="sources.html">Mongo Data</a>
+              </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Challenges</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="visualizations.html">ERD</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="recommendations.html">Recommendations</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <br>
+  <div class = "container">
+      <div class = "row">
+          <div class = "col-md-12">
+              <div class = "box">
+                <h2 class="title" align="center">Overall Project Challenges</h2>
+                <br>
+                  <p>We went into this project with the theory that factors of socioeconomic status 
+                    could be linked to crimes that were committed with weather conditions acting 
+                    as a contributing factor into these events. The state of Ohio, specifically 
+                    Cleveland, Columbus, and Cincinnati, wwere to be our target areas and 
+                    2010 to 2017 would be our timeframe. .</p>
+
+                  <p>We initially tried to gather weather information for the corresponding years
+                    but annual weather data does not provide any true granularity and would not be a 
+                    good frame of reference to our crime and census data.  As a result we abandoned 
+                    this option and stayed with the FBI and Census data. </p>
+              </div>
+          </div>
+      </div>
+    </div>
+
+<div class = "container">
+    <div class = "row">
+        <div class = "col-md-12">
+            <div class = "box">
+              <h2 class="title" align="center">API Challenges</h2>
+              <br>
+                <p>The first step that we took to clean the datasets involved eliminating variables 
+                  were not relevant to the question we posed.
+                  <br>
+                  <br>
+                  Given the API documentation, much of this could be done before pulling the data, as 
+                  the FBI and Census data is fairly complete to begin with. 
+                  <br>
+                  <br>
+                  We then used python code in a Jupyter notebook to pull in the data from both the APIs 
+                  and manipulate what was retrieved. We sought out assistance from both our instructor 
+                  and TA due to the difficulty that we faced trying to make our loop code work. After 
+                  some difficulties we were able to make the data work and got all of the years and states
+                  we wanted to include in the dataset.
+                  <br>
+                  <br>
+                  We finally did some data computations with the Census data and computed the poverty rate, 
+                  unemployment rate, and educational attainment rates to include in the database, as some 
+                  people may want raw numbers, but rates provide better data for comparison when referring 
+                  to unequal (state) population sizes.
+                </p>
+            </div>
+        </div>
+    </div>
+  </div>
+
+  <div class = "container">
+        <div class = "row">
+            <div class = "col-md-12">
+                <div class = "box">
+                  <h2 class="title" align="center">SQL/Mongo Challenges</h2>
+                  <br>
+                  <p>First, an ERD diagram was made to show the relationship between the Census education and housing variables
+                    and the FBI crime variables using <a href="https://app.quickdatatbasediagrams.com/#/"> 
+                    https://app.quickdatatbasediagrams.com/#/</a> to create our ERD diagram.
+                    <br>
+                    <br>
+                      Our next step was to transfer our final outputs into a database. We created a SQL and a Mongo database.
+                      Both databases were formatted with tables and columns from the final Pandas dataframes that were converted
+                      into CSV files. The CSV files were imported into PostgreSQL and MongoDB Compass.
+                      <br>
+                      <br>
+                      After some initial challenges, ensuring the variables were in the proper format for the SQL database and 
+                      that the code was running in the GitBash instead of Mongo command prompt for Mongo, both databases were uploaded
+                      relatively seamlessly.
+                        .</p>
+                </div>
+            </div>
+        </div>
+      </div>
+</body>
+
+</html>
