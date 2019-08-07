@@ -1,0 +1,2690 @@
+[
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cdd"), 
+    "" : NumberInt(0), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 4075.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cde"), 
+    "" : NumberInt(2), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 232.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cdf"), 
+    "" : NumberInt(3), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 7022.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce0"), 
+    "" : NumberInt(1), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 69074.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce1"), 
+    "" : NumberInt(4), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 1336.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce2"), 
+    "" : NumberInt(8), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 15893.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce3"), 
+    "" : NumberInt(9), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 6643.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce4"), 
+    "" : NumberInt(10), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 4417.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce5"), 
+    "" : NumberInt(11), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 28254.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce6"), 
+    "" : NumberInt(12), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1300.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce7"), 
+    "" : NumberInt(13), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 1402.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce8"), 
+    "" : NumberInt(14), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1541.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ce9"), 
+    "" : NumberInt(15), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 663.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cea"), 
+    "" : NumberInt(16), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 3961.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ceb"), 
+    "" : NumberInt(17), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 355.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cec"), 
+    "" : NumberInt(18), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 4004.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ced"), 
+    "" : NumberInt(5), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 20622.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cee"), 
+    "" : NumberInt(20), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1621.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cef"), 
+    "" : NumberInt(21), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 3040.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf0"), 
+    "" : NumberInt(22), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 13.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf1"), 
+    "" : NumberInt(23), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf2"), 
+    "" : NumberInt(24), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf3"), 
+    "" : NumberInt(25), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 58.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf4"), 
+    "" : NumberInt(19), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 38.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf5"), 
+    "" : NumberInt(26), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf6"), 
+    "" : NumberInt(27), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf7"), 
+    "" : NumberInt(28), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 32988.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf8"), 
+    "" : NumberInt(29), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 12416.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cf9"), 
+    "" : NumberInt(30), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 5.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cfa"), 
+    "" : NumberInt(31), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 960.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cfb"), 
+    "" : NumberInt(33), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 4455.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cfc"), 
+    "" : NumberInt(34), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 1737.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cfd"), 
+    "" : NumberInt(6), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 37463.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cfe"), 
+    "" : NumberInt(36), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734cff"), 
+    "" : NumberInt(37), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d00"), 
+    "" : NumberInt(38), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 532.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d01"), 
+    "" : NumberInt(39), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2839.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d02"), 
+    "" : NumberInt(40), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 874.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d03"), 
+    "" : NumberInt(41), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 38486.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d04"), 
+    "" : NumberInt(42), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3663.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d05"), 
+    "" : NumberInt(43), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 82.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d06"), 
+    "" : NumberInt(44), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 39.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d07"), 
+    "" : NumberInt(45), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 4800.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d08"), 
+    "" : NumberInt(46), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 3320.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d09"), 
+    "" : NumberInt(32), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 190.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d0a"), 
+    "" : NumberInt(49), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 4282.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d0b"), 
+    "" : NumberInt(50), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 63463.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d0c"), 
+    "" : NumberInt(51), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 250.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d0d"), 
+    "" : NumberInt(52), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 6899.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d0e"), 
+    "" : NumberInt(53), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 936.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d0f"), 
+    "" : NumberInt(54), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 18264.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d10"), 
+    "" : NumberInt(55), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 37708.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d11"), 
+    "" : NumberInt(56), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 30471.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d12"), 
+    "" : NumberInt(57), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 13836.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d13"), 
+    "" : NumberInt(58), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 6895.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d14"), 
+    "" : NumberInt(59), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 4356.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d15"), 
+    "" : NumberInt(35), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d16"), 
+    "" : NumberInt(60), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 26517.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d17"), 
+    "" : NumberInt(61), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1415.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d18"), 
+    "" : NumberInt(62), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 1098.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d19"), 
+    "" : NumberInt(63), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1374.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d1a"), 
+    "" : NumberInt(64), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 483.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d1b"), 
+    "" : NumberInt(65), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 3211.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d1c"), 
+    "" : NumberInt(48), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2010.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d1d"), 
+    "" : NumberInt(66), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 254.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d1e"), 
+    "" : NumberInt(69), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1172.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d1f"), 
+    "" : NumberInt(70), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 2670.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d20"), 
+    "" : NumberInt(71), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 4.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d21"), 
+    "" : NumberInt(72), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d22"), 
+    "" : NumberInt(73), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 1.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d23"), 
+    "" : NumberInt(74), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 61.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d24"), 
+    "" : NumberInt(75), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d25"), 
+    "" : NumberInt(76), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d26"), 
+    "" : NumberInt(77), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 31723.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d27"), 
+    "" : NumberInt(78), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 10166.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d28"), 
+    "" : NumberInt(79), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 8.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d29"), 
+    "" : NumberInt(80), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 937.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d2a"), 
+    "" : NumberInt(81), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 244.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d2b"), 
+    "" : NumberInt(82), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 3800.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d2c"), 
+    "" : NumberInt(83), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 1411.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d2d"), 
+    "" : NumberInt(84), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d2e"), 
+    "" : NumberInt(85), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d2f"), 
+    "" : NumberInt(86), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d30"), 
+    "" : NumberInt(67), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 3228.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d31"), 
+    "" : NumberInt(68), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 19.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d32"), 
+    "" : NumberInt(89), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 776.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d33"), 
+    "" : NumberInt(90), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 37156.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d34"), 
+    "" : NumberInt(87), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 489.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d35"), 
+    "" : NumberInt(92), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 55.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d36"), 
+    "" : NumberInt(93), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 42.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d37"), 
+    "" : NumberInt(94), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 4696.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d38"), 
+    "" : NumberInt(95), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 3299.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d39"), 
+    "" : NumberInt(97), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2011.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d3a"), 
+    "" : NumberInt(88), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2929.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d3b"), 
+    "" : NumberInt(99), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 59879.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d3c"), 
+    "" : NumberInt(100), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 175.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d3d"), 
+    "" : NumberInt(101), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 6686.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d3e"), 
+    "" : NumberInt(102), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 869.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d3f"), 
+    "" : NumberInt(103), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 17016.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d40"), 
+    "" : NumberInt(104), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 38016.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d41"), 
+    "" : NumberInt(105), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 30411.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d42"), 
+    "" : NumberInt(106), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 13982.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d43"), 
+    "" : NumberInt(91), 
+    "Offense_Year" : NumberInt(2011), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3714.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d44"), 
+    "" : NumberInt(108), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 4286.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d45"), 
+    "" : NumberInt(109), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 26637.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d46"), 
+    "" : NumberInt(110), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1478.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d47"), 
+    "" : NumberInt(111), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 928.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d48"), 
+    "" : NumberInt(112), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1202.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d49"), 
+    "" : NumberInt(113), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 715.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d4a"), 
+    "" : NumberInt(114), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 3116.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d4b"), 
+    "" : NumberInt(115), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 271.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d4c"), 
+    "" : NumberInt(116), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 3075.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d4d"), 
+    "" : NumberInt(117), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 14.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d4e"), 
+    "" : NumberInt(118), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1188.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d4f"), 
+    "" : NumberInt(119), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 2434.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d50"), 
+    "" : NumberInt(120), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 3.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d51"), 
+    "" : NumberInt(121), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d52"), 
+    "" : NumberInt(122), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d53"), 
+    "" : NumberInt(123), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 59.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d54"), 
+    "" : NumberInt(124), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d55"), 
+    "" : NumberInt(125), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d56"), 
+    "" : NumberInt(126), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 33350.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d57"), 
+    "" : NumberInt(98), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 4213.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d58"), 
+    "" : NumberInt(128), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 5.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d59"), 
+    "" : NumberInt(129), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 775.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d5a"), 
+    "" : NumberInt(130), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 212.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d5b"), 
+    "" : NumberInt(107), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 6857.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d5c"), 
+    "" : NumberInt(132), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 921.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d5d"), 
+    "" : NumberInt(133), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d5e"), 
+    "" : NumberInt(127), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 8996.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d5f"), 
+    "" : NumberInt(135), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d60"), 
+    "" : NumberInt(136), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 463.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d61"), 
+    "" : NumberInt(134), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d62"), 
+    "" : NumberInt(137), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2588.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d63"), 
+    "" : NumberInt(138), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 817.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d64"), 
+    "" : NumberInt(131), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 3023.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d65"), 
+    "" : NumberInt(139), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 35404.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d66"), 
+    "" : NumberInt(140), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3869.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d67"), 
+    "" : NumberInt(143), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 4376.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d68"), 
+    "" : NumberInt(144), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 3301.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d69"), 
+    "" : NumberInt(146), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2012.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d6a"), 
+    "" : NumberInt(147), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 4073.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d6b"), 
+    "" : NumberInt(148), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 51183.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d6c"), 
+    "" : NumberInt(149), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 236.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d6d"), 
+    "" : NumberInt(141), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 25.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d6e"), 
+    "" : NumberInt(150), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 5247.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d6f"), 
+    "" : NumberInt(151), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 501.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d70"), 
+    "" : NumberInt(152), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 14898.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d71"), 
+    "" : NumberInt(154), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 30505.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d72"), 
+    "" : NumberInt(153), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 34322.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d73"), 
+    "" : NumberInt(155), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 14857.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d74"), 
+    "" : NumberInt(142), 
+    "Offense_Year" : NumberInt(2012), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 9.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d75"), 
+    "" : NumberInt(156), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 6837.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d76"), 
+    "" : NumberInt(159), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1369.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d77"), 
+    "" : NumberInt(160), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 861.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d78"), 
+    "" : NumberInt(161), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1250.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d79"), 
+    "" : NumberInt(162), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 633.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d7a"), 
+    "" : NumberInt(163), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 2973.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d7b"), 
+    "" : NumberInt(164), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 229.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d7c"), 
+    "" : NumberInt(165), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 1723.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d7d"), 
+    "" : NumberInt(166), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 39.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d7e"), 
+    "" : NumberInt(167), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1185.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d7f"), 
+    "" : NumberInt(168), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 2495.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d80"), 
+    "" : NumberInt(169), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 3.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d81"), 
+    "" : NumberInt(170), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d82"), 
+    "" : NumberInt(171), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 1.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d83"), 
+    "" : NumberInt(172), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 19.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d84"), 
+    "" : NumberInt(173), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d85"), 
+    "" : NumberInt(174), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d86"), 
+    "" : NumberInt(175), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 31364.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d87"), 
+    "" : NumberInt(176), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 7455.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d88"), 
+    "" : NumberInt(157), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 3740.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d89"), 
+    "" : NumberInt(158), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 26803.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d8a"), 
+    "" : NumberInt(177), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 14.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d8b"), 
+    "" : NumberInt(178), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 732.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d8c"), 
+    "" : NumberInt(179), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 150.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d8d"), 
+    "" : NumberInt(180), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 1600.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d8e"), 
+    "" : NumberInt(181), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 1740.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d8f"), 
+    "" : NumberInt(184), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d90"), 
+    "" : NumberInt(185), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 400.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d91"), 
+    "" : NumberInt(186), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2291.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d92"), 
+    "" : NumberInt(187), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 715.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d93"), 
+    "" : NumberInt(188), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 32398.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d94"), 
+    "" : NumberInt(189), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3211.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d95"), 
+    "" : NumberInt(190), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 51.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d96"), 
+    "" : NumberInt(191), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 36.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d97"), 
+    "" : NumberInt(192), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 3872.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d98"), 
+    "" : NumberInt(193), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 2962.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d99"), 
+    "" : NumberInt(195), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2013.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d9a"), 
+    "" : NumberInt(196), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 4018.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d9b"), 
+    "" : NumberInt(197), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 53799.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d9c"), 
+    "" : NumberInt(198), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 202.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d9d"), 
+    "" : NumberInt(199), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 4900.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d9e"), 
+    "" : NumberInt(200), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 481.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734d9f"), 
+    "" : NumberInt(201), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 16400.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da0"), 
+    "" : NumberInt(202), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 35401.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da1"), 
+    "" : NumberInt(182), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da2"), 
+    "" : NumberInt(183), 
+    "Offense_Year" : NumberInt(2013), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da3"), 
+    "" : NumberInt(203), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 37458.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da4"), 
+    "" : NumberInt(204), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 18510.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da5"), 
+    "" : NumberInt(205), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 8777.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da6"), 
+    "" : NumberInt(206), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 3956.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da7"), 
+    "" : NumberInt(207), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 32706.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da8"), 
+    "" : NumberInt(7), 
+    "Offense_Year" : NumberInt(2010), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 32816.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734da9"), 
+    "" : NumberInt(211), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 639.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734daa"), 
+    "" : NumberInt(212), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 3810.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dab"), 
+    "" : NumberInt(213), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 256.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dac"), 
+    "" : NumberInt(214), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 2603.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dad"), 
+    "" : NumberInt(215), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 52.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dae"), 
+    "" : NumberInt(216), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1140.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734daf"), 
+    "" : NumberInt(217), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 2560.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db0"), 
+    "" : NumberInt(218), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 5.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db1"), 
+    "" : NumberInt(219), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db2"), 
+    "" : NumberInt(220), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db3"), 
+    "" : NumberInt(221), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 35.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db4"), 
+    "" : NumberInt(222), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db5"), 
+    "" : NumberInt(223), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db6"), 
+    "" : NumberInt(224), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 33732.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db7"), 
+    "" : NumberInt(225), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 8423.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db8"), 
+    "" : NumberInt(226), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 5.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734db9"), 
+    "" : NumberInt(227), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 764.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dba"), 
+    "" : NumberInt(228), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 218.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dbb"), 
+    "" : NumberInt(229), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 1869.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dbc"), 
+    "" : NumberInt(230), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 1550.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dbd"), 
+    "" : NumberInt(231), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dbe"), 
+    "" : NumberInt(232), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dbf"), 
+    "" : NumberInt(233), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc0"), 
+    "" : NumberInt(234), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 496.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc1"), 
+    "" : NumberInt(235), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2162.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc2"), 
+    "" : NumberInt(236), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 687.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc3"), 
+    "" : NumberInt(237), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 32759.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc4"), 
+    "" : NumberInt(238), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3381.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc5"), 
+    "" : NumberInt(239), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 50.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc6"), 
+    "" : NumberInt(240), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 25.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc7"), 
+    "" : NumberInt(241), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 3928.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc8"), 
+    "" : NumberInt(242), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 3274.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dc9"), 
+    "" : NumberInt(244), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2014.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dca"), 
+    "" : NumberInt(245), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 3772.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dcb"), 
+    "" : NumberInt(246), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 55704.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dcc"), 
+    "" : NumberInt(247), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 214.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dcd"), 
+    "" : NumberInt(248), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 4273.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dce"), 
+    "" : NumberInt(249), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 610.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dcf"), 
+    "" : NumberInt(250), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 15710.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd0"), 
+    "" : NumberInt(251), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 35213.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd1"), 
+    "" : NumberInt(252), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 34940.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd2"), 
+    "" : NumberInt(253), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 16494.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd3"), 
+    "" : NumberInt(254), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 8818.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd4"), 
+    "" : NumberInt(255), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 4056.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd5"), 
+    "" : NumberInt(256), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 30924.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd6"), 
+    "" : NumberInt(257), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1457.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd7"), 
+    "" : NumberInt(258), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 912.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd8"), 
+    "" : NumberInt(259), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1603.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dd9"), 
+    "" : NumberInt(260), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 510.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dda"), 
+    "" : NumberInt(261), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 3279.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ddb"), 
+    "" : NumberInt(262), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 232.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ddc"), 
+    "" : NumberInt(263), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 1745.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ddd"), 
+    "" : NumberInt(264), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 25.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dde"), 
+    "" : NumberInt(265), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1070.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ddf"), 
+    "" : NumberInt(266), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 2312.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de0"), 
+    "" : NumberInt(267), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de1"), 
+    "" : NumberInt(268), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de2"), 
+    "" : NumberInt(269), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de3"), 
+    "" : NumberInt(270), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 32.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de4"), 
+    "" : NumberInt(271), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de5"), 
+    "" : NumberInt(272), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de6"), 
+    "" : NumberInt(273), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 32500.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de7"), 
+    "" : NumberInt(274), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 6485.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de8"), 
+    "" : NumberInt(275), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 5.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734de9"), 
+    "" : NumberInt(276), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 799.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dea"), 
+    "" : NumberInt(277), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 180.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734deb"), 
+    "" : NumberInt(278), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 1845.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dec"), 
+    "" : NumberInt(279), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 1275.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734ded"), 
+    "" : NumberInt(280), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dee"), 
+    "" : NumberInt(281), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734def"), 
+    "" : NumberInt(282), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df0"), 
+    "" : NumberInt(283), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 448.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df1"), 
+    "" : NumberInt(284), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2029.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df2"), 
+    "" : NumberInt(285), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 666.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df3"), 
+    "" : NumberInt(286), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 31149.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df4"), 
+    "" : NumberInt(287), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3234.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df5"), 
+    "" : NumberInt(288), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 8.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df6"), 
+    "" : NumberInt(289), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 83.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df7"), 
+    "" : NumberInt(290), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 3551.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df8"), 
+    "" : NumberInt(291), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 3334.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734df9"), 
+    "" : NumberInt(293), 
+    "Offense_Year" : NumberInt(2015), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2015.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dfa"), 
+    "" : NumberInt(294), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 4829.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dfb"), 
+    "" : NumberInt(295), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 62831.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dfc"), 
+    "" : NumberInt(296), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 276.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dfd"), 
+    "" : NumberInt(297), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 4118.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dfe"), 
+    "" : NumberInt(298), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 567.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734dff"), 
+    "" : NumberInt(299), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 15637.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e00"), 
+    "" : NumberInt(300), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 26614.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e01"), 
+    "" : NumberInt(301), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 39825.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e02"), 
+    "" : NumberInt(302), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 18527.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e03"), 
+    "" : NumberInt(303), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 9892.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e04"), 
+    "" : NumberInt(304), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 5238.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e05"), 
+    "" : NumberInt(305), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 35314.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e06"), 
+    "" : NumberInt(306), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1624.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e07"), 
+    "" : NumberInt(307), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 1050.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e08"), 
+    "" : NumberInt(308), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1761.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e09"), 
+    "" : NumberInt(309), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 569.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e0a"), 
+    "" : NumberInt(310), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 3622.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e0b"), 
+    "" : NumberInt(311), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 234.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e0c"), 
+    "" : NumberInt(312), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 2178.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e0d"), 
+    "" : NumberInt(313), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 21.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e0e"), 
+    "" : NumberInt(314), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1073.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e0f"), 
+    "" : NumberInt(315), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 2366.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e10"), 
+    "" : NumberInt(316), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 1.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e11"), 
+    "" : NumberInt(317), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e12"), 
+    "" : NumberInt(318), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e13"), 
+    "" : NumberInt(319), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 41.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e14"), 
+    "" : NumberInt(320), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e15"), 
+    "" : NumberInt(321), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e16"), 
+    "" : NumberInt(322), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 31511.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e17"), 
+    "" : NumberInt(323), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 6430.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e18"), 
+    "" : NumberInt(324), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 19.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e19"), 
+    "" : NumberInt(325), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 718.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e1a"), 
+    "" : NumberInt(326), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 228.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e1b"), 
+    "" : NumberInt(327), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 1741.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e1c"), 
+    "" : NumberInt(328), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 1342.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e1d"), 
+    "" : NumberInt(329), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e1e"), 
+    "" : NumberInt(330), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e1f"), 
+    "" : NumberInt(331), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e20"), 
+    "" : NumberInt(332), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 507.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e21"), 
+    "" : NumberInt(333), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2013.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e22"), 
+    "" : NumberInt(334), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 611.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e23"), 
+    "" : NumberInt(335), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 31448.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e24"), 
+    "" : NumberInt(336), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3763.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e25"), 
+    "" : NumberInt(337), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 31.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e26"), 
+    "" : NumberInt(338), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 102.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e27"), 
+    "" : NumberInt(339), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 3790.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e28"), 
+    "" : NumberInt(340), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 3907.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e29"), 
+    "" : NumberInt(342), 
+    "Offense_Year" : NumberInt(2016), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2016.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e2a"), 
+    "" : NumberInt(343), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "aggravated_assault", 
+    "Offense_Count" : 6193.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e2b"), 
+    "" : NumberInt(344), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "all_other_offenses", 
+    "Offense_Count" : 63121.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e2c"), 
+    "" : NumberInt(345), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "arson", 
+    "Offense_Count" : 294.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e2d"), 
+    "" : NumberInt(346), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "burglary", 
+    "Offense_Count" : 4570.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e2e"), 
+    "" : NumberInt(347), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "curfew", 
+    "Offense_Count" : 558.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e2f"), 
+    "" : NumberInt(348), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "disorderly", 
+    "Offense_Count" : 12854.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e30"), 
+    "" : NumberInt(349), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "driving", 
+    "Offense_Count" : 15508.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e31"), 
+    "" : NumberInt(350), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_abuse_gt", 
+    "Offense_Count" : 41808.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e32"), 
+    "" : NumberInt(351), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_poss_m", 
+    "Offense_Count" : 17590.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e33"), 
+    "" : NumberInt(352), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_poss_opium", 
+    "Offense_Count" : 10042.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e34"), 
+    "" : NumberInt(353), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_poss_other", 
+    "Offense_Count" : 7673.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e35"), 
+    "" : NumberInt(354), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_poss_subtotal", 
+    "Offense_Count" : 36916.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e36"), 
+    "" : NumberInt(355), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1611.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e37"), 
+    "" : NumberInt(356), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 1081.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e38"), 
+    "" : NumberInt(357), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1438.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e39"), 
+    "" : NumberInt(358), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_sales_other", 
+    "Offense_Count" : 837.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e3a"), 
+    "" : NumberInt(359), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_sales_subtotal", 
+    "Offense_Count" : 3528.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e3b"), 
+    "" : NumberInt(360), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drug_sales_synthetic", 
+    "Offense_Count" : 172.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e3c"), 
+    "" : NumberInt(361), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "drunkness", 
+    "Offense_Count" : 4503.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e3d"), 
+    "" : NumberInt(362), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "embezzlement", 
+    "Offense_Count" : 22.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e3e"), 
+    "" : NumberInt(363), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "forgery", 
+    "Offense_Count" : 1005.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e3f"), 
+    "" : NumberInt(364), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "fraud", 
+    "Offense_Count" : 2357.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e40"), 
+    "" : NumberInt(365), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "g_all", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e41"), 
+    "" : NumberInt(366), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "g_b", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e42"), 
+    "" : NumberInt(367), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "g_n", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e43"), 
+    "" : NumberInt(368), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "g_t", 
+    "Offense_Count" : 23.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e44"), 
+    "" : NumberInt(208), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_poss_synthetic", 
+    "Offense_Count" : 1463.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e45"), 
+    "" : NumberInt(369), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "ht_c_s_a", 
+    "Offense_Count" : 1.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e46"), 
+    "" : NumberInt(370), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "ht_i_s", 
+    "Offense_Count" : 0.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e47"), 
+    "" : NumberInt(372), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "liquor", 
+    "Offense_Count" : 5255.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e48"), 
+    "" : NumberInt(371), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "larceny", 
+    "Offense_Count" : 31612.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e49"), 
+    "" : NumberInt(373), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "manslaughter", 
+    "Offense_Count" : 9.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e4a"), 
+    "" : NumberInt(374), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "mvt", 
+    "Offense_Count" : 966.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e4b"), 
+    "" : NumberInt(209), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_sales_m", 
+    "Offense_Count" : 1098.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e4c"), 
+    "" : NumberInt(375), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "murder", 
+    "Offense_Count" : 266.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e4d"), 
+    "" : NumberInt(378), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "prostitution_a_p_p", 
+    "Offense_Count" : 1041.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e4e"), 
+    "" : NumberInt(379), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "prostitution_p", 
+    "Offense_Count" : 113.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e4f"), 
+    "" : NumberInt(380), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "prostitution_p_p", 
+    "Offense_Count" : 8.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e50"), 
+    "" : NumberInt(377), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "prostitution", 
+    "Offense_Count" : 1164.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e51"), 
+    "" : NumberInt(376), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "offense_family", 
+    "Offense_Count" : 1718.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e52"), 
+    "" : NumberInt(382), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "robbery", 
+    "Offense_Count" : 2239.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e53"), 
+    "" : NumberInt(383), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "sex_offense", 
+    "Offense_Count" : 509.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e54"), 
+    "" : NumberInt(384), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "simple_assault", 
+    "Offense_Count" : 35950.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e55"), 
+    "" : NumberInt(385), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "stolen_property", 
+    "Offense_Count" : 3279.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e56"), 
+    "" : NumberInt(386), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "suspicion", 
+    "Offense_Count" : 6.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e57"), 
+    "" : NumberInt(381), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "rape", 
+    "Offense_Count" : 481.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e58"), 
+    "" : NumberInt(389), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "weapons", 
+    "Offense_Count" : 4340.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e59"), 
+    "" : NumberInt(391), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "data_year", 
+    "Offense_Count" : 2017.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e5a"), 
+    "" : NumberInt(387), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "vagrancy", 
+    "Offense_Count" : 145.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e5b"), 
+    "" : NumberInt(388), 
+    "Offense_Year" : NumberInt(2017), 
+    "Offense_Type" : "vandalism", 
+    "Offense_Count" : 4135.0
+},
+{ 
+    "_id" : ObjectId("5d477e3cddb277685a734e5c"), 
+    "" : NumberInt(210), 
+    "Offense_Year" : NumberInt(2014), 
+    "Offense_Type" : "drug_sales_opium", 
+    "Offense_Count" : 1817.0
+}
+]
